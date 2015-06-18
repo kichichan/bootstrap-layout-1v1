@@ -1,2 +1,2 @@
-# bootstrap-layout-1v1
+# Bootstrap Layout 1 version 1
 HTML Markup of an existing PSD design.
