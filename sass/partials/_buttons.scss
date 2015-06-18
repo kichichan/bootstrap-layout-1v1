@@ -1,0 +1,43 @@
+/*
+      Buttons
+      by KML
+      ---------------------
+      Mixins used:
+
+      button-variant($color, $background, $border)
+      button-size($padding-vertical, $padding-horizontal, $font-size, $line-height, $border-radius)
+      ---------------------
+*/
+
+
+.btn {
+  @include button-variant(#ff0000, #000000, #cccccc);
+}
+
+.btn-default {
+
+}
+
+.btn-primary {
+
+}
+
+.btn-success {
+
+}
+
+.btn-info {
+
+}
+
+.btn-warning {
+
+}
+
+.btn-danger {
+
+}
+
+.btn-link {
+  
+}
